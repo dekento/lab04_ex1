@@ -1,0 +1,19 @@
+﻿SQL Server
+name: admin
+pass: pmTDT
+----------------------------------
+Đường dẫn thư mục file giả lập
+
+LapTrinh C:\_Soft_LapTrinh\Windows Virtual Image
+-----------------------------------
+MySQL
+root
+pass: pmTDT
+
+- another user:
+username: sinhvien
+pass: pmTDT
+
+-----------------------------------
+postgresql
+pass: pmTDT
